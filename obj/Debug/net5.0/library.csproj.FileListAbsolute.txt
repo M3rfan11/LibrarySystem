@@ -1,0 +1,15 @@
+/Users/osz/Desktop/diploma/library/bin/Debug/net5.0/library
+/Users/osz/Desktop/diploma/library/bin/Debug/net5.0/library.deps.json
+/Users/osz/Desktop/diploma/library/bin/Debug/net5.0/library.runtimeconfig.json
+/Users/osz/Desktop/diploma/library/bin/Debug/net5.0/library.runtimeconfig.dev.json
+/Users/osz/Desktop/diploma/library/bin/Debug/net5.0/library.dll
+/Users/osz/Desktop/diploma/library/bin/Debug/net5.0/library.pdb
+/Users/osz/Desktop/diploma/library/obj/Debug/net5.0/library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osz/Desktop/diploma/library/obj/Debug/net5.0/library.AssemblyInfoInputs.cache
+/Users/osz/Desktop/diploma/library/obj/Debug/net5.0/library.AssemblyInfo.cs
+/Users/osz/Desktop/diploma/library/obj/Debug/net5.0/library.csproj.CoreCompileInputs.cache
+/Users/osz/Desktop/diploma/library/obj/Debug/net5.0/library.dll
+/Users/osz/Desktop/diploma/library/obj/Debug/net5.0/refint/library.dll
+/Users/osz/Desktop/diploma/library/obj/Debug/net5.0/library.pdb
+/Users/osz/Desktop/diploma/library/obj/Debug/net5.0/library.genruntimeconfig.cache
+/Users/osz/Desktop/diploma/library/obj/Debug/net5.0/ref/library.dll
